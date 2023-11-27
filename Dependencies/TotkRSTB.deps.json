@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TotkRSTB/1.0.0": {
+        "dependencies": {
+          "RstbLibrary": "1.0.0",
+          "SarcLibrary": "2.0.2",
+          "ZstdSharp.Port": "0.7.2"
+        },
+        "runtime": {
+          "TotkRSTB.dll": {}
+        }
+      },
+      "SarcLibrary/2.0.2": {
+        "runtime": {
+          "lib/net7.0/SarcLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ZstdSharp.Port/0.7.2": {
+        "runtime": {
+          "lib/net7.0/ZstdSharp.dll": {
+            "assemblyVersion": "0.7.2.0",
+            "fileVersion": "0.7.2.0"
+          }
+        }
+      },
+      "RstbLibrary/1.0.0": {
+        "runtime": {
+          "RstbLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TotkRSTB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SarcLibrary/2.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A1Pw1wGt4Fs+xIA0cJzFMH7IDYYZxI2H1F2PYhUVN4T/hHy2fPO1Top2uKlZhaPDsOduOjobPQMsU75qG5lATA==",
+      "path": "sarclibrary/2.0.2",
+      "hashPath": "sarclibrary.2.0.2.nupkg.sha512"
+    },
+    "ZstdSharp.Port/0.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mT6Pb7qzDGapJ2ic4dAFqbzHpM+qgnasQIGR/Sofrk0fmKTQSTljG55OFXHbDJczLZWnUAFsg4bKR81uHiKzPg==",
+      "path": "zstdsharp.port/0.7.2",
+      "hashPath": "zstdsharp.port.0.7.2.nupkg.sha512"
+    },
+    "RstbLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
