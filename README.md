@@ -54,4 +54,4 @@ Contributions and Special Thanks:
 
 '''(Insert Final Special Thanks Here)'''
 
-***Join our Discord community [here] (https://discord.com/invite/w7qGa5RyMc) if you'd like to contribute to the development of TCML. Your insights and collaboration are highly valued!***
+***Join our Discord community [here](https://discord.com/invite/w7qGa5RyMc) if you'd like to contribute to the development of TCML. Your insights and collaboration are highly valued!***
