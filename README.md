@@ -32,13 +32,13 @@ Features
 
     Add a json file with a structure like this:
 
-    ```// Example JSON file (modify as needed later)
+    // Example JSON file (modify as needed later)
     {
       "modName": "YourModName",
       "description": "Brief description of your mod",
       "author": "YourName",
       // Add any other relevant information
-    }```
+    }
 
     Add a thumbnail.png file with the thumbnail for your mod!
 
