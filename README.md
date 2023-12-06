@@ -1,9 +1,10 @@
 # TCML - Tears Of The Kingdom Cross Platform Mod Loader/Manager
 
 TCML, an acronym for Tears Of The Kingdom Cross Platform Mod Loader/Manager, is a versatile tool crafted to streamline modding across multiple platforms for the game Tears Of The Kingdom (TOTK). TCML utilizes dt12345's restbl tool and seamlessly integrates with various mod merging tools, delivering a quick and satisfying experience for modders.
-Features
 
 ![TCML_Logo_Modern_Final](https://github.com/The5thTear/TCML/assets/144561947/52758c78-0ab5-45ff-89ab-ccdab7b72567)
+
+# Features
 
 ## Mod Merging: TCML integrates with multiple mod merging tools to support the seamless combination of various file types, here are the currently supported file types:
 
