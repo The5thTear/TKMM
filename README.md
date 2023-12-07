@@ -5,7 +5,7 @@
 
 <p align="center" style="text-align: center;">
   <a href="https://github.com/The5thTear/TCML/releases">
-    <img src="https://img.shields.io/github/v/tag/ArchLeaders/MalsMerger?style=for-the-badge&logoColor=C71B42&color=C71B42&labelColor=2A2C33&logo=github&label=Version" alt="Releases' YouTube"/>
+    <img src="https://img.shields.io/github/v/tag/The5thTear/TCML?style=for-the-badge&logoColor=C71B42&color=C71B42&labelColor=2A2C33&logo=github&label=Version" alt="Releases' YouTube"/>
   </a> &nbsp;
   <a href="https://discord.com/invite/w7qGa5RyMc">
     <img src="https://img.shields.io/discord/1179611100183011429?style=for-the-badge&logoColor=37C75E&color=37C75E&labelColor=2A2C33&logo=discord&label=discord" alt="Discord"/>
