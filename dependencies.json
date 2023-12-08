@@ -1,0 +1,12 @@
+[
+    {
+        "name": "MalsMerger",
+        "type": "github-repo",
+        "url": "https://github.com/ArchLeaders/MalsMerger"
+    },
+    {
+        "name": "restbl-cli",
+        "type": "github-repo",
+        "url": "https://github.com/MasterBubbles/restbl-cli"
+    }
+]
