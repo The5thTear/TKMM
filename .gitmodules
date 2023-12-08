@@ -1,6 +1,7 @@
 [submodule "Sources/MalsMerger"]
 	path = Sources/MalsMerger
 	url = https://github.com/ArchLeaders/MalsMerger
-[submodule "Sources/RESTBL-CLI"]	
-	path = Sources/RESTBL-CLI
+	
+[submodule "Sources/restbl-cli"]
+	path = Sources/restbl-cli
 	url = https://github.com/MasterBubbles/restbl-cli
